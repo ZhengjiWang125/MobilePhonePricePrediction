@@ -1,3 +1,9 @@
 # MobilePhonePricePrediction
 
-Data from https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
+The goal is to train a model that can predict mobile phone price range.
+
+The data is from Kaggle.
+
+For the methodology part, please look at report.pdf
+
+For the code and detail, please 
