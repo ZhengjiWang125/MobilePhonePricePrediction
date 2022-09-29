@@ -6,4 +6,4 @@ The data is from Kaggle.
 
 For the methodology part, please look at report.pdf
 
-For the code and detail, please 
+For the code and detail, please view DA project_2078.ipynb
